@@ -1,13 +1,6 @@
 # StudyMate — Math Study Companion | همراه هوشمند مطالعه ریاضی
 
 **AI-Powered Academic Assistant | دستیار هوشمند آموزشی**
-
-<div align="center">
-  <img src="src/assets/images/study_app_icon_1789490847832.jpg" alt="StudyMate icon" width="140" />
-</div>
-
----
-
 ## Overview | معرفی پروژه
 
 **English:**
